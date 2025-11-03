@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning **cyber security**
+![hi](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3a29leTRtcXp0dnJ2NzQzMDdrMDhmNTVwdzllMjcyNnA4eWp1MHR4ZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/DWUbBqQaketgZfcEbs/giphy.gif)

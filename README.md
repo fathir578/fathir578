@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="460"/>
+ <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="460"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=FATHIR+AZHAR+SYAHPUTRA;AI-Centric+Developer;Backend+%7C+Cyber+Security;Engineering+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1200&color=00F5FF&center=true&vCenter=true&width=1000&lines=FATHIR+AZHAR+SYAHPUTRA;AI-CENTRIC+DEVELOPER;BACKEND+%7C+CYBER+SECURITY;ENGINEERING+INTELLIGENT+SYSTEMS" />
 </h1>
 
 <p align="center">
@@ -26,17 +26,17 @@ Environment : Linux / Kali Linux
 Mindset     : Logic-driven • Security-aware • System-level thinker
 ```
 
-I am a **developer focused on AI-centric systems**, backend architecture,
-and cyber security fundamentals.
+I focus on **how systems behave under pressure** —
+when they scale, fail, or face adversarial conditions.
 
-I don’t just write code —
-I analyze **how systems behave, fail, scale, and get attacked**.
+I don’t just write code.
+I analyze **architecture, attack surfaces, and intelligence flow**.
 
 ---
 
 ## ⚙️ CORE TECHNOLOGY STACK
 
-###  Programming Languages
+### 💻 Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-050505?style=flat&logo=python&logoColor=FFD43B"/>
@@ -49,7 +49,7 @@ I analyze **how systems behave, fail, scale, and get attacked**.
 
 ---
 
-###  Frameworks & Development Tools
+### 🧩 Frameworks & Development Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Django-050505?style=flat&logo=django&logoColor=00FF9C"/>
@@ -70,7 +70,7 @@ I analyze **how systems behave, fail, scale, and get attacked**.
 
 ---
 
-###  Cyber Security & Pentesting Tools (Kali Linux)
+### 🛡️ Cyber Security & Pentesting Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-050505?style=flat&logo=nmap&logoColor=00F5FF"/>
@@ -83,7 +83,7 @@ I analyze **how systems behave, fail, scale, and get attacked**.
 
 ---
 
-##  SKILL DOMAINS
+## 🧩 SKILL DOMAINS
 
 * Software Developer
 * Backend Engineer (Django, APIs, Databases)
@@ -105,13 +105,29 @@ I analyze **how systems behave, fail, scale, and get attacked**.
 
 ---
 
+## 📈 ACTIVITY GRAPH
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathir578&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://github.com/fathir578/fathir578/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 ## 🔗 CONTACT
 
 <p align="left">
-  <a href="mailto:fathirsyahputra559@gmail.com">
+  <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Email-050505?style=flat&logo=gmail&logoColor=EA4335"/>
   </a>
-  <a href="https://instagram.com/itsmeftrzhr_">
+  <a href="https://instagram.com/username">
     <img src="https://img.shields.io/badge/Instagram-050505?style=flat&logo=instagram&logoColor=E4405F"/>
   </a>
   <a href="https://linkedin.com/in/username">
@@ -122,5 +138,6 @@ I analyze **how systems behave, fail, scale, and get attacked**.
 ---
 
 <p align="center">
-  <i><b>“Intelligence is built. Security is enforced.”</b></i>
+  <b><i>“Intelligence is built. Security is enforced.”</i></b>
 </p>
+

@@ -53,6 +53,7 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
   <img src="https://img.shields.io/badge/VS_Code-050505?style=flat&logo=visualstudiocode&logoColor=00F5FF"/>
   <img src="https://img.shields.io/badge/PyCharm-050505?style=flat&logo=pycharm&logoColor=21D789"/>
 </p>
+
 ### Pentesting Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-050505?style=flat&logo=nmap&logoColor=00F5FF"/>

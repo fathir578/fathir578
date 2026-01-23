@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 SYSTEM IDENTITY
+## SYSTEM IDENTITY
 
 ```txt
 Name        : Fathir Azhar Syahputra
@@ -34,9 +34,9 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
 
 ---
 
-## ⚙️ CORE TECHNOLOGY STACK
+##  CORE TECHNOLOGY STACK
 
-### 💻 Programming Languages
+### 💻 Programming Languages & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-050505?style=flat&logo=python&logoColor=FFD43B"/>
@@ -46,11 +46,6 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
   <img src="https://img.shields.io/badge/PHP-050505?style=flat&logo=php&logoColor=777BB4"/>
   <img src="https://img.shields.io/badge/Bash-050505?style=flat&logo=gnu-bash&logoColor=4EAA25"/>
 </p>
-
----
-
-### 🧩 Frameworks & Development Tools
-
 <p align="left">
   <img src="https://img.shields.io/badge/Django-050505?style=flat&logo=django&logoColor=00FF9C"/>
   <img src="https://img.shields.io/badge/LAMP-050505?style=flat&logo=apache&logoColor=FF6C37"/>
@@ -58,20 +53,7 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
   <img src="https://img.shields.io/badge/VS_Code-050505?style=flat&logo=visualstudiocode&logoColor=00F5FF"/>
   <img src="https://img.shields.io/badge/PyCharm-050505?style=flat&logo=pycharm&logoColor=21D789"/>
 </p>
-
----
-
-### 🐧 Operating Systems
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-050505?style=flat&logo=linux&logoColor=FCC624"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-050505?style=flat&logo=kali-linux&logoColor=00F5FF"/>
-</p>
-
----
-
-### 🛡️ Cyber Security & Pentesting Tools
-
+### Pentesting Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-050505?style=flat&logo=nmap&logoColor=00F5FF"/>
   <img src="https://img.shields.io/badge/Metasploit-050505?style=flat&logo=metasploit&logoColor=FF3366"/>
@@ -83,7 +65,15 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
 
 ---
 
-## 🧩 SKILL DOMAINS
+### 🐧 Operating Systems
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-050505?style=flat&logo=linux&logoColor=FCC624"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-050505?style=flat&logo=kali-linux&logoColor=00F5FF"/>
+</p>
+---
+
+## SKILL DOMAINS
 
 * Software Developer
 * Backend Engineer (Django, APIs, Databases)
@@ -93,7 +83,7 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
 
 ---
 
-## 📊 SYSTEM METRICS
+##  SYSTEM METRICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fathir578&show_icons=true&theme=github_dark&hide_border=true"/>
@@ -105,7 +95,7 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
 
 ---
 
-## 📈 ACTIVITY GRAPH
+##  ACTIVITY GRAPH
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathir578&theme=react-dark&hide_border=true"/>
@@ -113,7 +103,7 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+
 
 <p align="center">
   <img src="https://github.com/fathir578/fathir578/blob/output/github-contribution-grid-snake-dark.svg"/>

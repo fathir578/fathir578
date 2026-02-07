@@ -38,20 +38,9 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
 
 ### 💻 Programming Languages & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black" height="28"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="28"/>
-</p>
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ### Pentesting Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Nmap-050505?style=flat&logo=nmap&logoColor=00F5FF"/>
@@ -83,14 +72,9 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
 ---
 
 ##  SYSTEM METRICS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fathir578&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fathir578&theme=github-dark&hide_border=true"/>
-</p> -->
+![](https://github-readme-stats.vercel.app/api?username=fathir578&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=fathir578&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fathir578&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
@@ -109,6 +93,14 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=fathir578&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=fathir578&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 ## 🔗 CONTACT
 
@@ -130,3 +122,7 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
   <b><i>“Intelligence is built. Security is enforced.”</i></b>
 </p>
 
+
+[![](https://visitcount.itsvg.in/api?id=fathir578&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

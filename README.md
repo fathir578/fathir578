@@ -105,10 +105,10 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
 ## 🔗 CONTACT
 
 <p align="left">
-  <a href="mailto:your.email@gmail.com">
+  <a href="fathirsyahputra559@gmail.com">
     <img src="https://img.shields.io/badge/Email-050505?style=flat&logo=gmail&logoColor=EA4335"/>
   </a>
-  <a href="https://instagram.com/username">
+  <a href="https://instagram.com/_callme.tirr">
     <img src="https://img.shields.io/badge/Instagram-050505?style=flat&logo=instagram&logoColor=E4405F"/>
   </a>
   <a href="https://linkedin.com/in/username">

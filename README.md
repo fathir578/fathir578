@@ -71,6 +71,21 @@ I analyze **architecture, attack surfaces, and intelligence flow**.
 
 ---
 
+## 🏅 ACHIEVEMENTS — OPEN SOURCE CONTRIBUTIONS
+
+<!--
+  Isi tiap baris dengan kontribusi open source kamu.
+  Format: [Nama Repo](link) — deskripsi singkat kontribusinya (mis. "fixed bug X", "added feature Y", "merged PR #123")
+-->
+
+* [ ] **[Nama Repo](https://github.com/owner/repo)** — deskripsi kontribusi (contoh: menambahkan fitur X, memperbaiki bug Y)
+* [ ] **[Nama Repo](https://github.com/owner/repo)** — deskripsi kontribusi
+* [ ] **[Nama Repo](https://github.com/owner/repo)** — deskripsi kontribusi
+
+> Ganti baris di atas dengan repo open source yang pernah kamu kontribusi (PR yang di-merge, issue yang kamu selesaikan, dll).
+
+---
+
 ## SYSTEM METRICS
 ![](https://github-readme-stats.vercel.app/api?username=fathir578&theme=aura&hide_border=false&include_all_commits=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fathir578&theme=aura&hide_border=false)<br/>
